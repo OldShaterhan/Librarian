@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Books">
+      <UniqueIdentifier>{2c1250f6-7d23-4d4c-8e65-524a1373dd2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Readers">
+      <UniqueIdentifier>{124fee0a-039e-46a8-9e8f-5431bc185c02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Borrowings">
+      <UniqueIdentifier>{acc1b217-caf7-42df-850d-8b731fba3b09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Files">
+      <UniqueIdentifier>{779212d4-2ede-4c9b-a744-7b28c5cdd4f3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="cui.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="calendar.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="loadFromFiles.cpp">
+      <Filter>Pliki źródłowe\Files</Filter>
+    </ClCompile>
+    <ClCompile Include="saveFiles.cpp">
+      <Filter>Pliki źródłowe\Files</Filter>
+    </ClCompile>
+    <ClCompile Include="reg_reader.cpp">
+      <Filter>Pliki źródłowe\Readers</Filter>
+    </ClCompile>
+    <ClCompile Include="show_readers_list.cpp">
+      <Filter>Pliki źródłowe\Readers</Filter>
+    </ClCompile>
+    <ClCompile Include="del_reader.cpp">
+      <Filter>Pliki źródłowe\Readers</Filter>
+    </ClCompile>
+    <ClCompile Include="check_reader.cpp">
+      <Filter>Pliki źródłowe\Readers</Filter>
+    </ClCompile>
+    <ClCompile Include="update_reader.cpp">
+      <Filter>Pliki źródłowe\Readers</Filter>
+    </ClCompile>
+    <ClCompile Include="add_book.cpp">
+      <Filter>Pliki źródłowe\Books</Filter>
+    </ClCompile>
+    <ClCompile Include="update_book.cpp">
+      <Filter>Pliki źródłowe\Books</Filter>
+    </ClCompile>
+    <ClCompile Include="show_books_list.cpp">
+      <Filter>Pliki źródłowe\Books</Filter>
+    </ClCompile>
+    <ClCompile Include="check_book.cpp">
+      <Filter>Pliki źródłowe\Books</Filter>
+    </ClCompile>
+    <ClCompile Include="del_book.cpp">
+      <Filter>Pliki źródłowe\Books</Filter>
+    </ClCompile>
+    <ClCompile Include="lend_a_book.cpp">
+      <Filter>Pliki źródłowe\Borrowings</Filter>
+    </ClCompile>
+    <ClCompile Include="return_book.cpp">
+      <Filter>Pliki źródłowe\Borrowings</Filter>
+    </ClCompile>
+    <ClCompile Include="check_if_after_return_date.cpp">
+      <Filter>Pliki źródłowe\Borrowings</Filter>
+    </ClCompile>
+    <ClCompile Include="free_memory.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="colors.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="if_int.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="readers.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="calendar.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="files.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="books.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="borrowings.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="colors.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,90 @@
+1
+Marian
+Starosolski
+Dziwna
+15
+95216
+Dziwnowo
+2015 1 1
+1
+egwf51
+2
+Marianna
+Starosolska
+Inna
+51
+65412
+Innowo
+2015 1 1
+0
+efnu15
+3
+Genowefa
+Mruczek
+Akademicka
+16/54
+13245
+Gliwice
+1930 1 1
+0
+RGE48511
+4
+Piotrek
+Gryt
+Plebiscytowa
+51E
+43190
+Mikolow
+1996 12 9
+1
+someIDnum
+5
+Lukasz
+Tulczyjew
+Gliwicka
+1536E
+44180
+Toszek
+1997 11 20
+1
+gtwrg
+6
+John
+Kowalsky
+Wall Street
+108
+10001
+New York
+1980 7 13
+1
+SDG456312
+7
+Joanna
+Krupa
+Holly Street
+156D
+94821
+Hollywood
+1979 4 23
+0
+GEG874124
+8
+Marian
+Pazdzioch
+Cwiartki
+3/3
+50001
+Wroclaw
+1932 3 20
+1
+FREH46351
+9
+Piotr
+Polak
+Miedzyblokowa
+18/4
+1850
+Insbruck
+1996 1 20
+1
+nuuwamlk15
